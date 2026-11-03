@@ -1,0 +1,804 @@
+{
+  "reports": [
+    {
+      "slug": "Darjeeling-pelling-zuluk",
+      "h1": "DARJEELING 5N-6D(Darjeeling-Pelling-Zuluk)",
+      "destination": "Darjeeling - Queen of the Himalayas",
+      "facts": {
+        "DURATION": "6 Days",
+        "PARTY": "Group of 6",
+        "PACE": "Moderate",
+        "FROM": "₹19,000"
+      },
+      "orig": "₹21,000",
+      "disc": "₹19,000",
+      "it_count": 1,
+      "inclusions": [],
+      "exclusions": [],
+      "gal_count": 5,
+      "src": {
+        "name": "DARJEELING 5N-6D(Darjeeling-Pelling-Zuluk)",
+        "destination": "Darjeeling - Queen of the Himalayas",
+        "duration": "6 Days",
+        "original_price": "₹21,000",
+        "discounted_price": "₹19,000",
+        "itinerary_days": 6,
+        "inclusions_count": 0,
+        "exclusions_count": 0,
+        "gallery_count": 5
+      },
+      "diffs": {
+        "name": true,
+        "destination": true,
+        "duration": true,
+        "orig_price": true,
+        "disc_price": true,
+        "itinerary_count": false,
+        "inclusions_count": true,
+        "exclusions_count": true,
+        "gallery_count": true
+      }
+    },
+    {
+      "slug": "bhutan-phuentsholing-thimphu-paro-5n-6d",
+      "h1": "Bhutan (Phuentsholing –Thimphu–Paro) 5N/6D",
+      "destination": "Bhutan - The Last Himalayan Kingdom",
+      "facts": {
+        "DURATION": "6 Days",
+        "PARTY": "Group of 6",
+        "PACE": "Hard",
+        "FROM": "₹27,500"
+      },
+      "orig": "₹32,500",
+      "disc": "₹27,500",
+      "it_count": 1,
+      "inclusions": [
+        "Reserved vehicle for Transfer & Sightseeing.",
+        "All sightseeing as per the Tour Itinerary.",
+        "Night stay in Hotel",
+        "Accommodation in Hotel What's Excluded",
+        "Any personal expenses.",
+        "All Taxes and Permits etc. for Darjeeling and Sikkim",
+        "Any other not mentioned in includes Para."
+      ],
+      "exclusions": [
+        "Any personal expenses.",
+        "All Taxes and Permits etc. for Darjeeling and Sikkim",
+        "Any other not mentioned in includes Para."
+      ],
+      "gal_count": 5,
+      "src": {
+        "name": "Bhutan (Phuentsholing –Thimphu–Paro) 5N/6D",
+        "destination": "Bhutan - The Last Himalayan Kingdom",
+        "duration": "6 Days",
+        "original_price": "₹32,500",
+        "discounted_price": "₹27,500",
+        "itinerary_days": 7,
+        "inclusions_count": 7,
+        "exclusions_count": 3,
+        "gallery_count": 5
+      },
+      "diffs": {
+        "name": true,
+        "destination": true,
+        "duration": true,
+        "orig_price": true,
+        "disc_price": true,
+        "itinerary_count": false,
+        "inclusions_count": true,
+        "exclusions_count": true,
+        "gallery_count": true
+      }
+    },
+    {
+      "slug": "darjeeling-4n-5d",
+      "h1": "DARJEELING 4N-5D",
+      "destination": "Kurseong – Where the Hills Meet the Clouds",
+      "facts": {
+        "DURATION": "5 Days",
+        "PARTY": "Group of 6",
+        "PACE": "Easy",
+        "FROM": "₹14,500"
+      },
+      "orig": "₹18,000",
+      "disc": "₹14,500",
+      "it_count": 1,
+      "inclusions": [
+        "Reserved vehicle for Transfer & Sightseeing.",
+        "All sightseeing as per the Tour Itinerary.",
+        "Nights stay in Hotel",
+        "Accommodation in Hotel What's Excluded",
+        "Any personal expenses.",
+        "All Taxes and Permits etc. for Darjeeling Sikkim & Bhutan.",
+        "Any other not mentioned in includes Para"
+      ],
+      "exclusions": [
+        "Any personal expenses.",
+        "All Taxes and Permits etc. for Darjeeling Sikkim & Bhutan.",
+        "Any other not mentioned in includes Para"
+      ],
+      "gal_count": 5,
+      "src": {
+        "name": "DARJEELING 4N-5D",
+        "destination": "Kurseong – Where the Hills Meet the Clouds",
+        "duration": "5 Days",
+        "original_price": "₹18,000",
+        "discounted_price": "₹14,500",
+        "itinerary_days": 5,
+        "inclusions_count": 7,
+        "exclusions_count": 3,
+        "gallery_count": 5
+      },
+      "diffs": {
+        "name": true,
+        "destination": true,
+        "duration": true,
+        "orig_price": true,
+        "disc_price": true,
+        "itinerary_count": false,
+        "inclusions_count": true,
+        "exclusions_count": true,
+        "gallery_count": true
+      }
+    },
+    {
+      "slug": "darjeeling-sikkim-via-peeling",
+      "h1": "DARJEELING-SIKKIM (VIA PELLING) 5N-6D",
+      "destination": "Darjeeling - Queen of the Himalayas",
+      "facts": {
+        "DURATION": "6 Days",
+        "PARTY": "Group of 6",
+        "PACE": "Moderate",
+        "FROM": "₹20,500"
+      },
+      "orig": "₹25,000",
+      "disc": "₹20,500",
+      "it_count": 1,
+      "inclusions": [
+        "Pick up & Drop Ex - NJP Railway Station/ Bagdogra Airport.",
+        "All Sightseeing as per the Tour Itinerary.",
+        "nights accommodation in Darjeeling/Pelling/gangtok.",
+        "Complementary Breakfast & Dinner. What's Excluded Any personal expenses. Permit Any other not mentioned in includes Para."
+      ],
+      "exclusions": [
+        "Any personal expenses. Permit Any other not mentioned in includes Para."
+      ],
+      "gal_count": 5,
+      "src": {
+        "name": "DARJEELING-SIKKIM (VIA PELLING) 5N-6D",
+        "destination": "Darjeeling - Queen of the Himalayas",
+        "duration": "6 Days",
+        "original_price": "₹25,000",
+        "discounted_price": "₹20,500",
+        "itinerary_days": 3,
+        "inclusions_count": 4,
+        "exclusions_count": 1,
+        "gallery_count": 5
+      },
+      "diffs": {
+        "name": true,
+        "destination": true,
+        "duration": true,
+        "orig_price": true,
+        "disc_price": true,
+        "itinerary_count": false,
+        "inclusions_count": true,
+        "exclusions_count": true,
+        "gallery_count": true
+      }
+    },
+    {
+      "slug": "darjeeling-tea-toy-train-tour",
+      "h1": "DARJEELING (TIGER HILL SUNRISE)3N-4D",
+      "destination": "Darjeeling - Queen of the Himalayas",
+      "facts": {
+        "DURATION": "4 Days",
+        "PARTY": "Group of 6",
+        "PACE": "Easy",
+        "FROM": "₹10,000"
+      },
+      "orig": "₹12,000",
+      "disc": "₹10,000",
+      "it_count": 1,
+      "inclusions": [
+        "Reserved vehicle for Transfer & Sightseeing.",
+        "All sightseeing as per the Tour Itinerary.",
+        "Nights stay in Hotel",
+        "Accommodation in Hotel What's Excluded",
+        "Any personal expenses.",
+        "All Taxes and Permits etc. for Darjeeling and Sikkim",
+        "Any other not mentioned in includes Para."
+      ],
+      "exclusions": [
+        "Any personal expenses.",
+        "All Taxes and Permits etc. for Darjeeling and Sikkim",
+        "Any other not mentioned in includes Para."
+      ],
+      "gal_count": 5,
+      "src": {
+        "name": "DARJEELING (TIGER HILL SUNRISE)3N-4D",
+        "destination": "Darjeeling - Queen of the Himalayas",
+        "duration": "4 Days",
+        "original_price": "₹12,000",
+        "discounted_price": "₹10,000",
+        "itinerary_days": 4,
+        "inclusions_count": 7,
+        "exclusions_count": 3,
+        "gallery_count": 5
+      },
+      "diffs": {
+        "name": true,
+        "destination": true,
+        "duration": true,
+        "orig_price": true,
+        "disc_price": true,
+        "itinerary_count": false,
+        "inclusions_count": true,
+        "exclusions_count": true,
+        "gallery_count": true
+      }
+    },
+    {
+      "slug": "dooars-tour-package-3n-4d",
+      "h1": "DOOARS TOUR PACKAGE – 3N/4D",
+      "destination": "Dooars - The Gateway to Wildlife",
+      "facts": {
+        "DURATION": "4 Days",
+        "PARTY": "Group of 6",
+        "PACE": "Easy",
+        "FROM": "₹9,500"
+      },
+      "orig": "₹11,000",
+      "disc": "₹9,500",
+      "it_count": 1,
+      "inclusions": [
+        "Reserved vehicle for Transfer & Sightseeing All sightseeing as per the Tour Itinerary Nights stay in Hotel Accommodation in Hotel. What's Excluded",
+        "Any personal expenses All Taxes and Permits etc. for Darjeeling Sikkim & Bhutan Any other not mentioned in includes Para."
+      ],
+      "exclusions": [
+        "Any personal expenses All Taxes and Permits etc. for Darjeeling Sikkim & Bhutan Any other not mentioned in includes Para."
+      ],
+      "gal_count": 5,
+      "src": {
+        "name": "DOOARS TOUR PACKAGE – 3N/4D",
+        "destination": "Dooars - The Gateway to Wildlife",
+        "duration": "4 Days",
+        "original_price": "₹11,000",
+        "discounted_price": "₹9,500",
+        "itinerary_days": 4,
+        "inclusions_count": 2,
+        "exclusions_count": 1,
+        "gallery_count": 5
+      },
+      "diffs": {
+        "name": true,
+        "destination": true,
+        "duration": true,
+        "orig_price": true,
+        "disc_price": true,
+        "itinerary_count": false,
+        "inclusions_count": true,
+        "exclusions_count": true,
+        "gallery_count": true
+      }
+    },
+    {
+      "slug": "gangtok-lachung-lachen",
+      "h1": "SIKKIM 6N-7D (Gangtok-Lachung-Lachen)",
+      "destination": "Lachen – A Hidden Gem of Sikkim",
+      "facts": {
+        "DURATION": "6 Days",
+        "PARTY": "Group of 6",
+        "PACE": "Easy",
+        "FROM": "₹22,000"
+      },
+      "orig": "₹28,000",
+      "disc": "₹22,000",
+      "it_count": 1,
+      "inclusions": [
+        "Reserved vehicle for Transfer & Sightseeing.",
+        "All sightseeing as per the Tour Itinerary.",
+        "Nights stay in Hotel",
+        "Accommodation in Hotel What's Excluded",
+        "Any personal expenses.",
+        "All Taxes and Permits etc. for Darjeeling Sikkim & Bhutan.",
+        "Any other not mentioned in includes Para"
+      ],
+      "exclusions": [
+        "Any personal expenses.",
+        "All Taxes and Permits etc. for Darjeeling Sikkim & Bhutan.",
+        "Any other not mentioned in includes Para"
+      ],
+      "gal_count": 5,
+      "src": {
+        "name": "SIKKIM 6N-7D (Gangtok-Lachung-Lachen)",
+        "destination": "Lachen – A Hidden Gem of Sikkim",
+        "duration": "6 Days",
+        "original_price": "₹28,000",
+        "discounted_price": "₹22,000",
+        "itinerary_days": 6,
+        "inclusions_count": 7,
+        "exclusions_count": 3,
+        "gallery_count": 5
+      },
+      "diffs": {
+        "name": true,
+        "destination": true,
+        "duration": true,
+        "orig_price": true,
+        "disc_price": true,
+        "itinerary_count": false,
+        "inclusions_count": true,
+        "exclusions_count": true,
+        "gallery_count": true
+      }
+    },
+    {
+      "slug": "gangtok-tsomgo-lake-tour",
+      "h1": "SIKKIM (NATHULA) 3N-4D",
+      "destination": "Sikkim - The Himalayan Paradise",
+      "facts": {
+        "DURATION": "4 Days",
+        "PARTY": "Group of 6",
+        "PACE": "Easy",
+        "FROM": "₹10,500"
+      },
+      "orig": "₹14,000",
+      "disc": "₹10,500",
+      "it_count": 1,
+      "inclusions": [
+        "Reserved vehicle for Transfer & Sightseeing.",
+        "All sightseeing as per the Tour Itinerary.",
+        "Nights stay in Hotel",
+        "Accommodation in Hotel What's Excluded",
+        "Any personal expenses.",
+        "All Taxes and Permits etc. for Darjeeling and Sikkim",
+        "Any other not mentioned in includes Para."
+      ],
+      "exclusions": [
+        "Any personal expenses.",
+        "All Taxes and Permits etc. for Darjeeling and Sikkim",
+        "Any other not mentioned in includes Para."
+      ],
+      "gal_count": 5,
+      "src": {
+        "name": "SIKKIM (NATHULA) 3N-4D",
+        "destination": "Sikkim - The Himalayan Paradise",
+        "duration": "4 Days",
+        "original_price": "₹14,000",
+        "discounted_price": "₹10,500",
+        "itinerary_days": 4,
+        "inclusions_count": 7,
+        "exclusions_count": 3,
+        "gallery_count": 5
+      },
+      "diffs": {
+        "name": true,
+        "destination": true,
+        "duration": true,
+        "orig_price": true,
+        "disc_price": true,
+        "itinerary_count": false,
+        "inclusions_count": true,
+        "exclusions_count": true,
+        "gallery_count": true
+      }
+    },
+    {
+      "slug": "kalimpong-darjeeling-mirik",
+      "h1": "DARJEELING(via Kalimpong) 4N-5D",
+      "destination": "Kalimpong - The Orchid Paradise",
+      "facts": {
+        "DURATION": "5 Days",
+        "PARTY": "Group of 6",
+        "PACE": "Easy",
+        "FROM": "₹12,500"
+      },
+      "orig": "₹15,500",
+      "disc": "₹12,500",
+      "it_count": 1,
+      "inclusions": [
+        "Reserved vehicle for Transfer & Sightseeing.",
+        "All sightseeing as per the Tour Itinerary.",
+        "Nights stay in Hotel",
+        "Accommodation in Hotel What's Excluded",
+        "Any personal expenses.",
+        "All Taxes and Permits etc. for Darjeeling Sikkim & Bhutan.",
+        "Any other not mentioned in includes Para"
+      ],
+      "exclusions": [
+        "Any personal expenses.",
+        "All Taxes and Permits etc. for Darjeeling Sikkim & Bhutan.",
+        "Any other not mentioned in includes Para"
+      ],
+      "gal_count": 5,
+      "src": {
+        "name": "DARJEELING(via Kalimpong) 4N-5D",
+        "destination": "Kalimpong - The Orchid Paradise",
+        "duration": "5 Days",
+        "original_price": "₹15,500",
+        "discounted_price": "₹12,500",
+        "itinerary_days": 6,
+        "inclusions_count": 7,
+        "exclusions_count": 3,
+        "gallery_count": 5
+      },
+      "diffs": {
+        "name": true,
+        "destination": true,
+        "duration": true,
+        "orig_price": true,
+        "disc_price": true,
+        "itinerary_count": false,
+        "inclusions_count": true,
+        "exclusions_count": true,
+        "gallery_count": true
+      }
+    },
+    {
+      "slug": "kalimpong-orchid-monastery-tour",
+      "h1": "SIKKIM-DARJEELING 4N-5D",
+      "destination": "Sikkim - The Himalayan Paradise",
+      "facts": {
+        "DURATION": "3 Days",
+        "PARTY": "Group of 6",
+        "PACE": "Easy",
+        "FROM": "₹15,000"
+      },
+      "orig": "₹18,000",
+      "disc": "₹15,000",
+      "it_count": 1,
+      "inclusions": [
+        "Reserved vehicle for Transfer & Sightseeing.",
+        "All sightseeing as per the Tour Itinerary.",
+        "Nights stay in Hotel",
+        "Accommodation in Hotel What's Excluded",
+        "Any personal expenses.",
+        "All Taxes and Permits etc. for Darjeeling and Sikkim",
+        "Any other not mentioned in includes Para."
+      ],
+      "exclusions": [
+        "Any personal expenses.",
+        "All Taxes and Permits etc. for Darjeeling and Sikkim",
+        "Any other not mentioned in includes Para."
+      ],
+      "gal_count": 5,
+      "src": {
+        "name": "SIKKIM-DARJEELING 4N-5D",
+        "destination": "Sikkim - The Himalayan Paradise",
+        "duration": "3 Days",
+        "original_price": "₹18,000",
+        "discounted_price": "₹15,000",
+        "itinerary_days": 5,
+        "inclusions_count": 7,
+        "exclusions_count": 3,
+        "gallery_count": 5
+      },
+      "diffs": {
+        "name": true,
+        "destination": true,
+        "duration": true,
+        "orig_price": true,
+        "disc_price": true,
+        "itinerary_count": false,
+        "inclusions_count": true,
+        "exclusions_count": true,
+        "gallery_count": true
+      }
+    },
+    {
+      "slug": "lachung-yumthang-valley-tour",
+      "h1": "SIKKIM (GANGTOK-LACHUNG-PELLING) 5N-6D",
+      "destination": "Sikkim - The Himalayan Paradise",
+      "facts": {
+        "DURATION": "6 Days",
+        "PARTY": "Group of 6",
+        "PACE": "Moderate",
+        "FROM": "₹18,000"
+      },
+      "orig": "₹20,000",
+      "disc": "₹18,000",
+      "it_count": 1,
+      "inclusions": [
+        "Reserved vehicle for Transfer & Sightseeing.",
+        "All sightseeing as per the Tour Itinerary.",
+        "Nights stay in Hotel",
+        "Accommodation in Hotel What's Excluded",
+        "Reserved vehicle for Transfer & Sightseeing.",
+        "All sightseeing as per the Tour Itinerary.",
+        "Nights stay in Hotel",
+        "Accommodation in Hotel"
+      ],
+      "exclusions": [
+        "Reserved vehicle for Transfer & Sightseeing.",
+        "All sightseeing as per the Tour Itinerary.",
+        "Nights stay in Hotel",
+        "Accommodation in Hotel"
+      ],
+      "gal_count": 5,
+      "src": {
+        "name": "SIKKIM (GANGTOK-LACHUNG-PELLING) 5N-6D",
+        "destination": "Sikkim - The Himalayan Paradise",
+        "duration": "6 Days",
+        "original_price": "₹20,000",
+        "discounted_price": "₹18,000",
+        "itinerary_days": 6,
+        "inclusions_count": 8,
+        "exclusions_count": 4,
+        "gallery_count": 5
+      },
+      "diffs": {
+        "name": true,
+        "destination": true,
+        "duration": true,
+        "orig_price": true,
+        "disc_price": true,
+        "itinerary_count": false,
+        "inclusions_count": true,
+        "exclusions_count": true,
+        "gallery_count": true
+      }
+    },
+    {
+      "slug": "paro-tigers-nest-trekking-tour",
+      "h1": "BHUTAN (PARO-THIMPU)4N-5D",
+      "destination": "Bhutan - The Last Himalayan Kingdom",
+      "facts": {
+        "DURATION": "5 Days",
+        "PARTY": "Group of 6",
+        "PACE": "Moderate",
+        "FROM": "₹20,000"
+      },
+      "orig": "₹25,000",
+      "disc": "₹20,000",
+      "it_count": 1,
+      "inclusions": [
+        "Reserved vehicle for Transfer & Sightseeing.",
+        "All sightseeing as per the Tour Itinerary.",
+        "Nights stay in Hotel",
+        "Accommodation in Hotel What's Excluded",
+        "Any personal expenses.",
+        "All Taxes and Permits etc. for Darjeeling Sikkim & Bhutan.",
+        "Any other not mentioned in includes Para"
+      ],
+      "exclusions": [
+        "Any personal expenses.",
+        "All Taxes and Permits etc. for Darjeeling Sikkim & Bhutan.",
+        "Any other not mentioned in includes Para"
+      ],
+      "gal_count": 5,
+      "src": {
+        "name": "BHUTAN (PARO-THIMPU)4N-5D",
+        "destination": "Bhutan - The Last Himalayan Kingdom",
+        "duration": "5 Days",
+        "original_price": "₹25,000",
+        "discounted_price": "₹20,000",
+        "itinerary_days": 5,
+        "inclusions_count": 7,
+        "exclusions_count": 3,
+        "gallery_count": 5
+      },
+      "diffs": {
+        "name": true,
+        "destination": true,
+        "duration": true,
+        "orig_price": true,
+        "disc_price": true,
+        "itinerary_count": false,
+        "inclusions_count": true,
+        "exclusions_count": true,
+        "gallery_count": true
+      }
+    },
+    {
+      "slug": "sikkim-darj-via-pelling-5n-6d",
+      "h1": "SIKKIM- DARJEELING (via PELLING) 5N-6D",
+      "destination": "Sikkim - The Himalayan Paradise",
+      "facts": {
+        "DURATION": "6 Days",
+        "PARTY": "Group of 6",
+        "PACE": "Moderate",
+        "FROM": "₹20,000"
+      },
+      "orig": "₹25,000",
+      "disc": "₹20,000",
+      "it_count": 1,
+      "inclusions": [
+        "Reserved vehicle for Transfer & Sightseeing.",
+        "All sightseeing as per the Tour Itinerary.",
+        "Night stay in Hotel",
+        "Accommodation in Hotel What's Excluded",
+        "Any personal expenses.",
+        "All Taxes and Permits etc. for Darjeeling and Sikkim",
+        "Any other not mentioned in includes Para."
+      ],
+      "exclusions": [
+        "Any personal expenses.",
+        "All Taxes and Permits etc. for Darjeeling and Sikkim",
+        "Any other not mentioned in includes Para."
+      ],
+      "gal_count": 5,
+      "src": {
+        "name": "SIKKIM- DARJEELING (via PELLING) 5N-6D",
+        "destination": "Sikkim - The Himalayan Paradise",
+        "duration": "6 Days",
+        "original_price": "₹25,000",
+        "discounted_price": "₹20,000",
+        "itinerary_days": 6,
+        "inclusions_count": 7,
+        "exclusions_count": 3,
+        "gallery_count": 5
+      },
+      "diffs": {
+        "name": true,
+        "destination": true,
+        "duration": true,
+        "orig_price": true,
+        "disc_price": true,
+        "itinerary_count": false,
+        "inclusions_count": true,
+        "exclusions_count": true,
+        "gallery_count": true
+      }
+    },
+    {
+      "slug": "sikkim-wonders-amp-gangtok",
+      "h1": "SIKKIM 2N-3D",
+      "destination": "Sikkim - The Himalayan Paradise",
+      "facts": {
+        "DURATION": "3 Days",
+        "PARTY": "Group of 6",
+        "PACE": "Easy",
+        "FROM": "₹7,500"
+      },
+      "orig": "₹9,500",
+      "disc": "₹7,500",
+      "it_count": 1,
+      "inclusions": [
+        "Reserved vehicle for Transfer & Sightseeing.",
+        "All sightseeing as per the Tour Itinerary.",
+        "Night stay in Hotel",
+        "Accommodation in Hotel What's Excluded",
+        "Any personal expenses.",
+        "All Taxes and Permits etc. for Darjeeling and Sikkim",
+        "Any other not mentioned in includes Para."
+      ],
+      "exclusions": [
+        "Any personal expenses.",
+        "All Taxes and Permits etc. for Darjeeling and Sikkim",
+        "Any other not mentioned in includes Para."
+      ],
+      "gal_count": 5,
+      "src": {
+        "name": "SIKKIM 2N-3D",
+        "destination": "Sikkim - The Himalayan Paradise",
+        "duration": "3 Days",
+        "original_price": "₹9,500",
+        "discounted_price": "₹7,500",
+        "itinerary_days": 3,
+        "inclusions_count": 7,
+        "exclusions_count": 3,
+        "gallery_count": 5
+      },
+      "diffs": {
+        "name": true,
+        "destination": true,
+        "duration": true,
+        "orig_price": true,
+        "disc_price": true,
+        "itinerary_count": false,
+        "inclusions_count": true,
+        "exclusions_count": true,
+        "gallery_count": true
+      }
+    },
+    {
+      "slug": "thimphu-cultural-spiritual-tour",
+      "h1": "BHUTAN 3N-4D OCT",
+      "destination": "Bhutan - The Last Himalayan Kingdom",
+      "facts": {
+        "DURATION": "4 Days",
+        "PARTY": "Group of 6",
+        "PACE": "Easy",
+        "FROM": "₹15,000"
+      },
+      "orig": "₹20,000",
+      "disc": "₹15,000",
+      "it_count": 1,
+      "inclusions": [
+        "Reserved vehicle for Transfer & Sightseeing.",
+        "All sightseeing as per the Tour Itinerary.",
+        "Nights stay in Hotel",
+        "Accommodation in Hotel What's Excluded",
+        "Reserved vehicle for Transfer & Sightseeing.",
+        "All sightseeing as per the Tour Itinerary.",
+        "Nights stay in Hotel",
+        "Accommodation in Hotel"
+      ],
+      "exclusions": [
+        "Reserved vehicle for Transfer & Sightseeing.",
+        "All sightseeing as per the Tour Itinerary.",
+        "Nights stay in Hotel",
+        "Accommodation in Hotel"
+      ],
+      "gal_count": 5,
+      "src": {
+        "name": "BHUTAN 3N-4D OCT",
+        "destination": "Bhutan - The Last Himalayan Kingdom",
+        "duration": "4 Days",
+        "original_price": "₹20,000",
+        "discounted_price": "₹15,000",
+        "itinerary_days": 4,
+        "inclusions_count": 8,
+        "exclusions_count": 4,
+        "gallery_count": 5
+      },
+      "diffs": {
+        "name": true,
+        "destination": true,
+        "duration": true,
+        "orig_price": true,
+        "disc_price": true,
+        "itinerary_count": false,
+        "inclusions_count": true,
+        "exclusions_count": true,
+        "gallery_count": true
+      }
+    },
+    {
+      "slug": "zuluk-namchi-darjeeling",
+      "h1": "SIKKIM-DARJEELING(via Zuluk) 4N-5D",
+      "destination": "Zuluk – Silk Route Advanture & Himalayan Views",
+      "facts": {
+        "DURATION": "5 Days",
+        "PARTY": "Group of 6",
+        "PACE": "Easy",
+        "FROM": "₹17,000"
+      },
+      "orig": "₹21,000",
+      "disc": "₹17,000",
+      "it_count": 1,
+      "inclusions": [
+        "Reserved vehicle for Transfer & Sightseeing.",
+        "All sightseeing as per the Tour Itinerary.",
+        "Nights stay in Hotel",
+        "Accommodation in Hotel What's Excluded",
+        "Any personal expenses.",
+        "All Taxes and Permits etc. for Darjeeling Sikkim & Bhutan.",
+        "Any other not mentioned in includes Para"
+      ],
+      "exclusions": [
+        "Any personal expenses.",
+        "All Taxes and Permits etc. for Darjeeling Sikkim & Bhutan.",
+        "Any other not mentioned in includes Para"
+      ],
+      "gal_count": 4,
+      "src": {
+        "name": "SIKKIM-DARJEELING(via Zuluk) 4N-5D",
+        "destination": "Zuluk – Silk Route Advanture & Himalayan Views",
+        "duration": "5 Days",
+        "original_price": "₹21,000",
+        "discounted_price": "₹17,000",
+        "itinerary_days": 5,
+        "inclusions_count": 7,
+        "exclusions_count": 3,
+        "gallery_count": 5
+      },
+      "diffs": {
+        "name": true,
+        "destination": true,
+        "duration": true,
+        "orig_price": true,
+        "disc_price": true,
+        "itinerary_count": false,
+        "inclusions_count": true,
+        "exclusions_count": true,
+        "gallery_count": false
+      }
+    }
+  ],
+  "summary": {
+    "total": 16,
+    "mismatches": 16
+  }
+}
